@@ -5,9 +5,8 @@
     'description': """This Module allow quick create and edit depend on user group""",
     "author": "ComposerCodes",
     "website": "",
-    "license": "LGPL-3",
-    "price": 5.00,
-    "currency": "EUR",
+    "support": "maged.ibrahem1@gmail.com",
+    "license": "AGPL-3",
     "depends": ["web"],
     'data': [
         'security/security.xml',
